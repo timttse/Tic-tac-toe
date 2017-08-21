@@ -2,7 +2,7 @@
 
 Tic tac toe game with min max ai.
 
-## Free code camp project: https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game
+Free code camp project: https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game
 
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/KzXQgy/.
 
